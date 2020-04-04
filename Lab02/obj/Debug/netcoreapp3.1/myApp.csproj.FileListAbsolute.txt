@@ -1,0 +1,13 @@
+/home/jiro-tomato/Dev/C#/myApp/obj/Debug/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/home/jiro-tomato/Dev/C#/myApp/obj/Debug/netcoreapp3.1/myApp.csproj.CoreCompileInputs.cache
+/home/jiro-tomato/Dev/C#/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/home/jiro-tomato/Dev/C#/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
+/home/jiro-tomato/Dev/C#/myApp/bin/Debug/netcoreapp3.1/myApp
+/home/jiro-tomato/Dev/C#/myApp/bin/Debug/netcoreapp3.1/myApp.deps.json
+/home/jiro-tomato/Dev/C#/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.json
+/home/jiro-tomato/Dev/C#/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/home/jiro-tomato/Dev/C#/myApp/bin/Debug/netcoreapp3.1/myApp.dll
+/home/jiro-tomato/Dev/C#/myApp/bin/Debug/netcoreapp3.1/myApp.pdb
+/home/jiro-tomato/Dev/C#/myApp/obj/Debug/netcoreapp3.1/myApp.dll
+/home/jiro-tomato/Dev/C#/myApp/obj/Debug/netcoreapp3.1/myApp.pdb
+/home/jiro-tomato/Dev/C#/myApp/obj/Debug/netcoreapp3.1/myApp.genruntimeconfig.cache
