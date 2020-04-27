@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/jiro-tomato/.dotnet/store/|arch|/|tfm|",
+      "/home/jiro-tomato/.nuget/packages"
+    ]
+  }
+}

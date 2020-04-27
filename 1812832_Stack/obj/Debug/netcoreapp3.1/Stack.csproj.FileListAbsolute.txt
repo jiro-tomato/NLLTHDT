@@ -1,0 +1,13 @@
+/home/jiro-tomato/Dev/NLLTHDT/Stack/bin/Debug/netcoreapp3.1/Stack
+/home/jiro-tomato/Dev/NLLTHDT/Stack/bin/Debug/netcoreapp3.1/Stack.deps.json
+/home/jiro-tomato/Dev/NLLTHDT/Stack/bin/Debug/netcoreapp3.1/Stack.runtimeconfig.json
+/home/jiro-tomato/Dev/NLLTHDT/Stack/bin/Debug/netcoreapp3.1/Stack.runtimeconfig.dev.json
+/home/jiro-tomato/Dev/NLLTHDT/Stack/bin/Debug/netcoreapp3.1/Stack.dll
+/home/jiro-tomato/Dev/NLLTHDT/Stack/bin/Debug/netcoreapp3.1/Stack.pdb
+/home/jiro-tomato/Dev/NLLTHDT/Stack/obj/Debug/netcoreapp3.1/Stack.csprojAssemblyReference.cache
+/home/jiro-tomato/Dev/NLLTHDT/Stack/obj/Debug/netcoreapp3.1/Stack.csproj.CoreCompileInputs.cache
+/home/jiro-tomato/Dev/NLLTHDT/Stack/obj/Debug/netcoreapp3.1/Stack.AssemblyInfoInputs.cache
+/home/jiro-tomato/Dev/NLLTHDT/Stack/obj/Debug/netcoreapp3.1/Stack.AssemblyInfo.cs
+/home/jiro-tomato/Dev/NLLTHDT/Stack/obj/Debug/netcoreapp3.1/Stack.dll
+/home/jiro-tomato/Dev/NLLTHDT/Stack/obj/Debug/netcoreapp3.1/Stack.pdb
+/home/jiro-tomato/Dev/NLLTHDT/Stack/obj/Debug/netcoreapp3.1/Stack.genruntimeconfig.cache
