@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jirotomato/Documents/DEV/NLLTHDT/Inheritance/Inheritance.csproj": {}
+  },
+  "projects": {
+    "/Users/jirotomato/Documents/DEV/NLLTHDT/Inheritance/Inheritance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jirotomato/Documents/DEV/NLLTHDT/Inheritance/Inheritance.csproj",
+        "projectName": "Inheritance",
+        "projectPath": "/Users/jirotomato/Documents/DEV/NLLTHDT/Inheritance/Inheritance.csproj",
+        "packagesPath": "/Users/jirotomato/.nuget/packages/",
+        "outputPath": "/Users/jirotomato/Documents/DEV/NLLTHDT/Inheritance/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jirotomato/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
